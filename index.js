@@ -1,6 +1,3 @@
-// username: db_sain_health_care
-// password: YmuJSrpBD4vm7lie
-
 // import
 const express = require('express');
 const { MongoClient } = require('mongodb');
