@@ -32,7 +32,7 @@ run().catch(console.dir);
 
 
 app.get('/', (req, res) => {
-    res.send("Responsing from Get");
+    res.send("Responsing to serer");
 })
 
 app.listen(port, () => {
